@@ -32,7 +32,7 @@ _Tools Used: Whoosh, pytrec val, NLTK_
 * Introduction to Data Science and Analytics
 * Decision Support Systems
 * Big Data Science
-* Quality Assurance I
+* Quality Assurance
 
 ### Graduate Project
 * STNG Engine Project – Prediction of in-operation engine failure at a mining site in Chile

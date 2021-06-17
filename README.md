@@ -30,7 +30,12 @@ _Tools Used: Whoosh, pytrec val, NLTK_
 
 ### Graduate Project
 * STNG Engine Project – Prediction of in-operation engine failure at a mining site in Chile
+  *  Random Forest, Support Vector Regression
+  *  ANN, Deep ANN, Stacked LSTM, DCNN, CNN-LSTM, CNN ResNet, MLP-LSTM-MLP
+  *  Achieved 75%+ precision and recall rate for the detecting engine failures.
 * Titan Wind Compensation – Prediction of sea surface wind speed and direction from floating LiDAR installed on buoy
+  *  Lasso, ENet, GBoost, XGBoost, LightBoost, SVR
+  *  Achieved R-squared 0.99+ for all target variables
 
 ### Online Courses
 * [The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)

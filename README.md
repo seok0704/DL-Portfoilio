@@ -25,6 +25,7 @@ _Tools Used: scikit-learn, numpy, NLTK, seaborn, XGBoost, Keras_
 
 ### Other Projects
 * [Information Retreival Project](https://github.com/seok0704/JC-Portfoilio/blob/main/ir_assignment.ipynb): This project uses 4000 documents from US Government websites and the topics are 15 needs for government information. The aim of this project is to utilize Whoosh (Python Search Engine Library) on large pool of documents and validate on its baseline model.
+
 _Tools Used: Whoosh, pytrec val, NLTK_
 
 ### Academic Courses
